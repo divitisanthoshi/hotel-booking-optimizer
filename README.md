@@ -24,8 +24,8 @@ It allows booking multiple rooms at once (up to 5), automatically groups rooms c
 
 ## 🖼️ Demo Screenshot
 
-![Screenshot (17).png
-](screenshot.png)
+![App Screenshot](https://github.com/user-attachments/assets/fb37851f-3411-47ff-a409-b0a59a0fdbb5)
+
 
 ---
 
